@@ -1,15 +1,19 @@
-# Name:
+# Name: Evan Butler
 # Date:
 
-Description:
+Description: A site for converting numbers into roman numerals. The algorithm in the scripts file was mildly successful, but we figured out eventually that the problem can easily be solved by using an associative array for the symbols.
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
-1.
 
-# Copyright (c) 2015 (Name)
+1. Open terminal/console and type: 'git clone https://github.com/evanb2/romanNumeralsJS'
+
+2. Open romanNumeralsJS folder and open the html file in your web browser.
+
+3. Follow instructions on the page.
+
+# Copyright (c) 2015 (Evan Butler)
 
 # The MIT License (MIT)
 
